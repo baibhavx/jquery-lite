@@ -13,4 +13,9 @@ Most of this functionality is implemented using the native DOM API that is built
 + Create Event Listeners using vanilla JavaScript 
 
 
+### Boot Webpack: 
+```
+webpack --watch lib/main.js -o lib/jquery_lite.js --mode=development
+```
+
 
